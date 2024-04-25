@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag - Scan 5
+# VeraDemo - Blab-a-Gag - Scan 6
 
 ### :information_source: Notice
 
